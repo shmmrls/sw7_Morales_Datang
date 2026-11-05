@@ -133,7 +133,7 @@ the application belong to their respective owners and are used here for learning
 ## Authors
 
 - **Trisha Mia Morales**: [@shmmrls](https://github.com/shmmrls)
-- **[Partner's first name] Datang**
+- **Julia Faye C. Datang**
 
 ## License
 
